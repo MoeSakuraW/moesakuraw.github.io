@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://moesakura.world/archives/sspanel-v2ray-docker/</loc>
+        <lastmod>2020-01-12T05:33:32.879Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://moesakura.world/archives/hexo-gulp/</loc>
         <lastmod>2020-01-06T11:22:30.696Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -34,14 +42,6 @@
     <url>
         <loc>https://moesakura.world/archives/tg-forwarder-bot/</loc>
         <lastmod>2020-01-06T08:42:10.521Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://moesakura.world/archives/sspanel-v2ray-docker/</loc>
-        <lastmod>2020-01-06T08:42:04.187Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
