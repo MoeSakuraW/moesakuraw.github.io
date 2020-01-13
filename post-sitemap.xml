@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://moesakura.world/archives/hp-install-macos/</loc>
+        <lastmod>2020-01-13T05:18:11.270Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://moesakura.world/archives/sspanel-v2ray-docker/</loc>
         <lastmod>2020-01-12T05:36:12.856Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -58,14 +66,6 @@
     <url>
         <loc>https://moesakura.world/archives/pyone/</loc>
         <lastmod>2020-01-06T08:41:53.638Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://moesakura.world/archives/hp-install-macos/</loc>
-        <lastmod>2020-01-06T08:41:48.526Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

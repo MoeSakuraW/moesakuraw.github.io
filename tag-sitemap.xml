@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://moesakura.world/tags/%25E9%25BB%2591%25E8%258B%25B9%25E6%259E%259C/</loc>
+        <lastmod>2020-01-13T05:18:11.270Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://moesakura.world/tags/macOS/</loc>
+        <lastmod>2020-01-13T05:18:11.270Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://moesakura.world/tags/V2Ray/</loc>
         <lastmod>2020-01-12T05:36:12.856Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -96,20 +110,6 @@
     <url>
         <loc>https://moesakura.world/tags/Redis/</loc>
         <lastmod>2020-01-06T08:41:53.638Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://moesakura.world/tags/%25E9%25BB%2591%25E8%258B%25B9%25E6%259E%259C/</loc>
-        <lastmod>2020-01-06T08:41:48.526Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://moesakura.world/tags/macOS/</loc>
-        <lastmod>2020-01-06T08:41:48.526Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
