@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://moesakura.world/"/>
-  <updated>2020-01-06T10:19:29.000Z</updated>
+  <updated>2020-02-08T12:39:30.902Z</updated>
   <id>https://moesakura.world/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Citra - 逆转裁判</title>
+    <link href="https://moesakura.world/archives/citra-ace-attorney/"/>
+    <id>https://moesakura.world/archives/citra-ace-attorney/</id>
+    <published>2020-02-08T09:44:26.000Z</published>
+    <updated>2020-02-08T12:39:30.902Z</updated>
+    
+    <content type="html"><![CDATA[<p>先祝小伙伴们元宵节快乐。本来过年前就打算分享的游戏，直到今天萌樱才想起来…</p><p>相信逆转裁判这款游戏，小伙伴们没玩过都听说过。这是一款很老的 AVG ，第一部作品是 2001 年 登录 GBA 掌机，后来很多平台都能玩到这款游戏。但是每一部作品都能玩的，也只有 3DS 了。没有 3DS 的小伙伴们用 Citra 愉快的玩耍。</p><p>Citra 是一款多平台的 3DS 模拟器，支持 Windows，Linux 以及 macOS ，大部分游戏模拟起来都很流畅。缺点就是 3DS 只有 240 x 400 的分辨率，虽然可以在设置中多开几倍分辨率开启高清模式，但是如果是 3D 的游戏开 2 倍及以上就会卡得生活不能自理。</p><p>官网：<a href="https://citra-emu.org/" target="_blank" rel="noopener external nofollow noreferrer">https://citra-emu.org/</a></p><p>Github：<a href="https://github.com/citra-emu/citra" target="_blank" rel="noopener external nofollow noreferrer">https://github.com/citra-emu/citra</a></p><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>模拟器：<a href="https://github.com/citra-emu/citra-canary/releases" target="_blank" rel="noopener external nofollow noreferrer">https://github.com/citra-emu/citra-canary/releases</a></p><p>游戏本体：<a href="https://cloud.moesakura.world/游戏/Citra/" target="_blank" rel="noopener external nofollow noreferrer">https://cloud.moesakura.world/游戏/Citra/</a></p><h2 id="食用方法"><a href="#食用方法" class="headerlink" title="食用方法"></a>食用方法</h2><p>仅适用于 Windows 平台</p><ul><li>下载最新的 <code>citra-windows-mingw.7z</code> ，<code>user.7z</code> 以及 <code>游戏</code> 并解压</li><li>把 <code>user</code> 文件夹复制到模拟器文件夹里</li><li>打开 模拟器文件夹中的 <code>citra-qt.exe</code></li><li>点击 <code>文件 - 安装 CIA</code> 找到游戏进行安装</li></ul><p>😋 Enjoy it !</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;先祝小伙伴们元宵节快乐。本来过年前就打算分享的游戏，直到今天萌樱才想起来…&lt;/p&gt;
+&lt;p&gt;相信逆转裁判这款游戏，小伙伴们没玩过都听说过。这是一款很老的 AVG ，第一部作品是 2001 年 登录 GBA 掌机，后来很多平台都能玩到这款游戏。但是每一部作品都能玩的，也只有
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="3DS" scheme="https://moesakura.world/tags/3DS/"/>
+    
+      <category term="Citra" scheme="https://moesakura.world/tags/Citra/"/>
+    
+      <category term="游戏" scheme="https://moesakura.world/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>搭建和萌樱同款的 Hexo</title>
@@ -164,9 +196,9 @@
     
       <category term="OneinStack" scheme="https://moesakura.world/tags/OneinStack/"/>
     
-      <category term="Node.js" scheme="https://moesakura.world/tags/Node-js/"/>
-    
       <category term="MongoDB" scheme="https://moesakura.world/tags/MongoDB/"/>
+    
+      <category term="Node.js" scheme="https://moesakura.world/tags/Node-js/"/>
     
   </entry>
   
@@ -320,9 +352,9 @@
     
       <category term="OneinStack" scheme="https://moesakura.world/tags/OneinStack/"/>
     
-      <category term="MongoDB" scheme="https://moesakura.world/tags/MongoDB/"/>
-    
       <category term="Python" scheme="https://moesakura.world/tags/Python/"/>
+    
+      <category term="MongoDB" scheme="https://moesakura.world/tags/MongoDB/"/>
     
       <category term="Redis" scheme="https://moesakura.world/tags/Redis/"/>
     

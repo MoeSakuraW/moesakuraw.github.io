@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://moesakura.world/archives/citra-ace-attorney/</loc>
+        <lastmod>2020-02-08T12:39:30.902Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://moesakura.world/archives/sspanel-v2ray-docker/</loc>
         <lastmod>2020-02-08T09:21:14.628Z</lastmod>
         <changefreq>weekly</changefreq>

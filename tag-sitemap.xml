@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://moesakura.world/tags/%25E6%25B8%25B8%25E6%2588%258F/</loc>
+        <lastmod>2020-02-08T12:39:30.902Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://moesakura.world/tags/Citra/</loc>
+        <lastmod>2020-02-08T12:39:30.902Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://moesakura.world/tags/3DS/</loc>
+        <lastmod>2020-02-08T12:39:30.902Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://moesakura.world/tags/V2Ray/</loc>
         <lastmod>2020-02-08T09:21:14.628Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,14 +108,14 @@
     </url>
 
     <url>
-        <loc>https://moesakura.world/tags/MongoDB/</loc>
+        <loc>https://moesakura.world/tags/Node-js/</loc>
         <lastmod>2020-01-06T08:41:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://moesakura.world/tags/Node-js/</loc>
+        <loc>https://moesakura.world/tags/MongoDB/</loc>
         <lastmod>2020-01-06T08:41:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
